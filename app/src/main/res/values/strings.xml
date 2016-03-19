@@ -1,0 +1,7 @@
+
+<resources>
+<string name="app_name">BeaxerNoVCS</string>
+<string name="connectionUrl">http://10.0.2.2:8080/simple/resources/apiv1/positionInformation</string>
+<string name="sub_path">application/json</string>
+</resources>
+
